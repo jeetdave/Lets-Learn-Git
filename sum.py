@@ -1,3 +1,4 @@
 a=4
-b=6;
+b=6 
 print a+b
+print a+a
